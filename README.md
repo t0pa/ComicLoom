@@ -1,6 +1,6 @@
 # ComicLoom
 
-[View Live App](comicfront-app-dul8l.ondigitalocean.app)
+[View Live App](comicfront-app-dul8l.ondigitalocean.app) - currently not available due to hosting expences
 
 This project is a full-fledged web application built using PHP with the FlightPHP micro-framework, along with DBeaver for database management. The goal is to understand the fundamentals of backend development while building a functional web application.
 
