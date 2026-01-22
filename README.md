@@ -41,7 +41,7 @@ featured web application for managing and exploring comic collections. Users can
 ### 1. Clone or Download the Project
 Place the project in your XAMPP htdocs directory:
 ```
-C:\xampp\htdocs\TarikTopic\web-dev-uni\
+C:\xampp\htdocs\
 ```
 
 ### 2. Install PHP Dependencies
