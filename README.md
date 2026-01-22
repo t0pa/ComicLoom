@@ -2,6 +2,8 @@
 
 featured web application for managing and exploring comic collections. Users can browse comics, maintain personal libraries, create wishlists, leave reviews, and admins can manage the comic database.
 
+[Live Demo Youtube](https://youtu.be/ZYTLw4Xk2wY)
+
 [View Live App](comicfront-app-dul8l.ondigitalocean.app) - currently not available due to hosting expenses
 
 ### Features
