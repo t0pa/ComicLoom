@@ -1,7 +1,6 @@
 # ComicLoom
 
-[View Live App](comicfront-app-dul8l.ondigitalocean.app) - currently not available due to hosting expences
-A full-featured web application for managing and exploring comic collections. Users can browse comics, maintain personal libraries, create wishlists, leave reviews, and admins can manage the comic database.
+featured web application for managing and exploring comic collections. Users can browse comics, maintain personal libraries, create wishlists, leave reviews, and admins can manage the comic database.
 
 [View Live App](comicfront-app-dul8l.ondigitalocean.app) - currently not available due to hosting expenses
 
